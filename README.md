@@ -1,1 +1,1 @@
-# login-and-register-page
+# LOGIN & REGISTERATION PAGE
